@@ -1,7 +1,3 @@
-class App extends Component {
-  render() {
-    return;
-  }
+function App() {
+  return <button>Add here!</button>;
 }
-
-export default App;

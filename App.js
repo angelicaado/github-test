@@ -1,3 +1,3 @@
 function App() {
-  return <button>Add here!</button>;
+  return <button>This is just a button</button>;
 }

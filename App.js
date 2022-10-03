@@ -1,3 +1,8 @@
 function App() {
-  return <button>This is just a button</button>;
+  return (
+    <>
+      <div>GitHub-Test App</div>
+      <button>Delete Here!</button>
+    </>
+  );
 }
